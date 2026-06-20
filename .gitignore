@@ -3,3 +3,4 @@ app.log
 vector_db/
 .env
 models/
+__pycache__/config.cpython-310.pyc
