@@ -1,0 +1,6 @@
+path: D:\Study\python\multimodel_cs\datasets\defect
+train: train/images
+val: val/images
+
+names:
+  0: bad
